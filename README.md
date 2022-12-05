@@ -1,4 +1,4 @@
-# Pathfinder-Breadth-AStar (27/05/2021)
+# Pathfinder-AStar (27/05/2021)
 
 Incomplete, wontfix
 Improved GUI from legacy version: https://github.com/NotYuSheng/Pathfinder-Breadth-First-Search
